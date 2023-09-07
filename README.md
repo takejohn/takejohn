@@ -1,16 +1,17 @@
-### Hi there 👋
+# Let me contribute!
 
-<!--
-**takejohn/takejohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[日本語](/README-ja.md)
 
-Here are some ideas to get you started:
+This is Take-John, pronounced as “Také-John”, a university student in Japan.  
+I am learning C, Java, JavaScript and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently my interest is developing plugins of SpigotMC, an extention of Minecraft servers.  
+I also interested in Skript, a language to create plugins easily than Java.
+
+I love to help others!
+
+## Links
+
+* [Qiita](https://qiita.com/takejohn) (Japanese community site)
+* [SpigotMC](https://www.spigotmc.org/members/take-john.1876492/)
+* [skUnity](https://forums.skunity.com/members/take-john.31879/) (portal site of Skript)
