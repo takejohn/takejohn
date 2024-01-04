@@ -3,10 +3,10 @@
 [日本語](/README-ja.md)
 
 This is Take-John, pronounced as “Také-John”, a university student in Japan.  
-I am learning C, Java, JavaScript and Python.
+I am learning C, Java, JavaScript, and Python.
 
-Currently my interest is developing plugins of SpigotMC, an extention of Minecraft servers.  
-I also interested in Skript, a language to create plugins easily than Java.
+My interest is developing plugins for SpigotMC, an extension of Minecraft servers.  
+I am also interested in Skript, a language for creating plugins more easily than Java.
 
 I love to help others!
 
