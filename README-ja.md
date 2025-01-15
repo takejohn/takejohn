@@ -3,15 +3,20 @@
 [English](/README.md)
 
 Take-John です（タケジョンと読みます）。日本の大学生です。  
-C と Java, JavaScript, Pyrhon を勉強しています。
 
-今は SpigotMC という Minecraft サーバーソフトのプラグイン開発に興味を持っています。  
-また、Skript という、Java より簡単にプラグインを作成できる言語にも興味を持っています。
+今は Misskey や AiScript の開発を行っています。
 
 人の役に立つことが好きです！
 
 ## Links
 
+* [Gravatar](https://gravatar.com/takejohn)
 * [Qiita](https://qiita.com/takejohn)
+* [npm](https://www.npmjs.com/~takejohn)
 * [SpigotMC](https://www.spigotmc.org/members/take-john.1876492/)
-* [skUnity](https://forums.skunity.com/members/take-john.31879/) (Skript のポータルサイト)
+* [skUnity](https://forums.skunity.com/members/take-john.31879/)
+
+## Stats
+
+[![Take-John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=takejohn&show_icons=true&theme=transparent&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
+[![Take-John's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=takejohn&theme=transparent&locale=ja)](https://github.com/anuraghazra/github-readme-stats)
